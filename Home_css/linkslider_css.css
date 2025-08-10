@@ -1,0 +1,38 @@
+.link_container{
+	width:940px;
+	margin:40px auto;
+	overflow:auto;
+}
+.slider_inner{
+	width:900px;
+	height:350px;
+	position:relative;
+	overflow:hidden;
+	float:left;
+	padding:3px;
+	border:#666 solid 1px;
+}
+.slider_inner img{
+	display:none;
+	width:900px;
+	height:350px;
+
+}
+.slider_inner img.active{
+	display:inline-block;
+}
+.prev,.next{
+	float:left;
+	margin-top:130px;
+	cursor:pointer;
+}
+.prev{
+	position:relative;
+	margin-right:-45px;
+	z-index:100;
+}
+.next{
+	position:relative;
+	margin-left:-45px;
+	z-index:100;
+}

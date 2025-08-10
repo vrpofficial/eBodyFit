@@ -1,0 +1,63 @@
+.video_maincontain{
+	width:auto;
+	height:400px;
+	margin:25px auto;
+	margin-left:20px;
+	margin-right:20px;
+	border:3px groove white;
+	position:relative;
+	display:block;
+	background-color:orange;
+	
+}
+#first_vid{background-color:#e6e6fa;
+	margin:10px;
+	padding:5px;
+	width:400px;
+	height:350px;
+	float:left;
+	border:2px solid green;
+	border-radius:5px;
+}
+#second_vid{background-color:#e6e6fa;
+	margin:10px;
+	padding:5px;
+	width:400px;
+	height:350px;
+	float:left;
+	border:2px solid green;
+	border-radius:5px;
+}
+#third_vid{background-color:#e6e6fa;
+	margin:10px;
+	padding:5px;
+	width:400px;
+	height:350px;
+	float:left;
+	border:2px solid green;
+	border-radius:5px;
+}
+#vid1 video{background-color:#ffdb58;
+	height:290px;
+	width:400px;
+	border:2px outset white;	
+	position:relative;
+}
+#vid2 video{background-color:#ffdb58;
+	height:290px;
+	width:400px;
+	border:2px outset white;
+	position:relative;	
+}
+#vid3 video{background-color:#ffdb58;
+	height:290px;
+	width:400px;
+	border:2px outset white;
+	position:relative;
+}
+#viddesc1{
+	margin-top:20px;
+	font-family:;
+	color:black;
+	text-align:center;
+}
